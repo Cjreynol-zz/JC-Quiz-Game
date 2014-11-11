@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JC Quiz</string>
+    <string name="hello_world">Choose Your Subject Area!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_1">Technology</string>
+    <string name="title_activity_quiz_game">JC Quiz!</string>
+    <string name="Tech_game">Technology Quiz!!!</string>
+    <string name="title_activity_end_game">JC Quiz!</string>
+    <string name="endgame">Finished!</string>
+    <string name="submit">Submit</string>
+    <string name="literature">Literature</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="play">Play Again?</string>
+
+</resources>
